@@ -1,6 +1,6 @@
 # java-oops
 
-Beginner friendly Java OOPs practice repository.
+Java OOPs practice repository.
 
 This repository contains Java OOPs concepts and programs with examples and practice codes.  
 It covers all major Object-Oriented Programming concepts in Java.
@@ -9,19 +9,22 @@ It covers all major Object-Oriented Programming concepts in Java.
 
 ## Topics Covered
 
-- Abstraction
-- Encapsulation
-- Inheritance
-- Polymorphism
-- Interface
-- Constructor
-- Method Overloading
-- Method Overriding
-- Classes and Objects
-- Arrays in Java
-- String Programs
-- Basic Java Programs
+## Folder Structure
 
+java-oops/
+│
+- Abstraction
+- Constructor
+- Encapsulation
+- Exception Handling
+- Generics and File Handling
+- Inheritance
+- Interface
+-  MethodOverloading
+- Object_creation
+- Polymorphism
+- Static
+- README
 ---
 
 ## Technologies Used
@@ -34,19 +37,22 @@ It covers all major Object-Oriented Programming concepts in Java.
 
 ## Folder Structure
 
+## Folder Structure
+
 java-oops/
 │
 ├── Abstraction/
-├── Encapsulation/
-├── Inheritance/
-├── Polymorphism/
-├── Interface/
 ├── Constructor/
-├── Arrays/
-├── Strings/
-└── Basic Programs/
-
----
+├── Encapsulation/
+├── Exception Handling/
+├── Generics and File Handling/
+├── Inheritance/
+├── Interface/
+├── MethodOverloading/
+├── Object_creation/
+├── Polymorphism/
+├── Static/
+└── README.md
 
 ## Features
 
@@ -62,7 +68,7 @@ java-oops/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/java-oops.git
+git clone https://github.com/Danish7865/java-oops.git
 ```
 
 2. Open the project in VS Code or Eclipse IDE
